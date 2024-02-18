@@ -1,10 +1,29 @@
-# Diyanet_App
+# Yıllık Bakım ve Tatbikat Planı Uygulaması
+## Annual Maintenance and Exercise Plan Application(en)
 
-It is a mobile application allows that task assignment and follow-up application in accordance with the required annual maintenance and exercise plan in line with the needs of the System and Network team.
 
--> This project was created with flutter. <br>
--> The sqflite database was used in the project.<br>
--> Database contains 5 tables.<br>
--> Implemented CRUD operations.<br>
--> Implemented other business operations.<br>
--> Cross tables were used.
+Bu mobil uygulama, Sistem ve Network ekibinin ihtiyaçlarına göre hazırlanmış, gerekli yıllık bakım ve tatbikat planına uygun olarak görev atama ve takibi işlevini yerine getirir.
+
+This mobile application performs the task assignment and tracking function in accordance with the required annual maintenance and exercise plan prepared according to the needs of the System and Network team.(en)
+
+
+-> Developed using Flutter framework.
+
+-> Utilized sqflite for database management.
+
+-> The database comprises 5 tables.
+
+-> Implemented CRUD operations.
+
+-> Executed other business-specific operations.
+
+-> Incorporated cross tables for enhanced functionality.
+
+## İsterler Raporu ve Formlar
+
+<img src="ProjectSS/1.jpg" width="auto">
+<img src="ProjectSS/2.jpg" width="auto">
+<img src="ProjectSS/3.jpg" width="auto">
+<img src="ProjectSS/4.jpg" width="auto">
+
+  
