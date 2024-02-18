@@ -21,9 +21,9 @@ This mobile application performs the task assignment and tracking function in ac
 
 ## İsterler Raporu ve Formlar
 
-<img src="ProjectSS/1.jpg" width="auto">
-<img src="ProjectSS/2.jpg" width="auto">
-<img src="ProjectSS/3.jpg" width="auto">
-<img src="ProjectSS/4.jpg" width="auto">
+<img src="ProjectSS/1.jpg" width="400" height="auto">
+<img src="ProjectSS/2.jpg" width="400" height="auto">
+<img src="ProjectSS/3.jpg" width="400" height="auto">
+<img src="ProjectSS/4.jpg" width="400" height="auto">
 
   
